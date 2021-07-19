@@ -1,16 +1,14 @@
-### Hi there 👋
+<p align="center" >👻 About me</p>
+<p align="center">  
+    <a target="_blank" href="https://farazshaikh.com">farazshaikh.com</a>
+</p>
 
-<!--
-**FarazzShaikh/farazzshaikh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center" >📖 Blog</p>
+<p align="center">  
+    <a target="_blank" href="https://blog.farazshaikh.com">blog.farazshaikh.com</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center" >👷‍♂️ Hire me</p>
+<p align="center">  
+    <a target="_blank"  href="https://mail.google.com/mail/u/0/?fs=1&to=farazzshaikh@gmail.com&su=About...&body=Hey%20Faraz,%20....&tf=cm">blog.farazshaikh.com</a>
+</p>
