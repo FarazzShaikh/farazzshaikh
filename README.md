@@ -1,3 +1,8 @@
+<p align="center" >⚒️ Work</p>
+<p align="center">  
+    <a target="_blank" href="https://farazshaikh.com">farazshaikh.com</a>
+</p>
+
 <p align="center" >📖 Blog</p>
 <p align="center">  
     <a target="_blank" href="https://blog.farazshaikh.com">blog.farazshaikh.com</a>
